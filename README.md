@@ -1,4 +1,4 @@
-# Bioinformatics Projects & Research**  
+# Bioinformatics Projects & Research 
 Hi! I'm **Surabhi**, a bioinformatics enthusiast passionate about **in-silico drug discovery, computational biology, and AI-driven healthcare solutions**. This repository serves as a collection of my **bioinformatics scripts, research work, and computational tools**.  
 ## About This Repository  
 This repository includes:  
